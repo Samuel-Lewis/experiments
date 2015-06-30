@@ -28,9 +28,8 @@
 #define BANISH break
 
 // COMMENTS
+// This doesn't really work...
 #define BTW //
-#define STORY_TIMEZ /*
-#define THE_END */
 
 // CLASSES
 #define CLASSY class
@@ -59,8 +58,8 @@
 #define IS ==
 #define NOT !=
 #define ITZ =
-#define LESS <
-#define MORE >
+#define TINIER <
+#define BIGGER >
 #define BUT_MAYBE ||
 #define AND_DIS &&
 #define GROWZ ++
@@ -71,7 +70,7 @@
 #define NEEDZ ->
 #define HAS .
 
-#define LOL ()
+#define LOLZ ()
 
 #define WIN true
 #define FAIL false
@@ -84,5 +83,5 @@
 
 #define OOH_AND <<
 
-#define AIDS std
-#define BUMBUM ::
+#define STOLEN std
+#define HEHE ::
