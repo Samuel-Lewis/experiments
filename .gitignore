@@ -4,6 +4,7 @@
 # ============= #
 *.o
 *.exe
+example
 
 # ============= #
 # OS generated  #
