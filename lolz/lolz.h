@@ -1,8 +1,6 @@
 #ifndef LOLZ_H
 #define LOLZ_H
 
-#pragma once
-
 #include <cstdlib>
 #include <cstdio>
 #include <iostream>
