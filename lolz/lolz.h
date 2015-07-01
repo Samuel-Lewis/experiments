@@ -1,3 +1,7 @@
+//
+//	Inspired by lolcode: http://lolcode.org/
+//
+
 #ifndef LOLZ_H
 #define LOLZ_H
 
