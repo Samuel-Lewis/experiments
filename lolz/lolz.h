@@ -1,3 +1,6 @@
+#ifndef LOLZ_H
+#define LOLZ_H
+
 #pragma once
 
 #include <cstdlib>
@@ -85,3 +88,5 @@
 
 #define STOLEN std
 #define HEHE ::
+
+#endif // LOLZ_H
