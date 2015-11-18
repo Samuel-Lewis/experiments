@@ -1,0 +1,83 @@
+[21:56:32][INFO]:lbLog.cpp:31:  === STARTED LOG ===
+[21:56:32][INFO]:Game.cpp:233: Set p1 as HumanSteve(X)
+[21:56:32][INFO]:Game.cpp:236: Set p2 as TreeJake(X)
+[21:56:32][INFO]:Game.cpp:40: Started new game
+[21:56:32][INFO]:Game.cpp:43: NONE'd out board
+[21:56:32][INFO]:Game.cpp:60: TreeJake(O) goes first
+[21:56:32][INFO]:Tree.cpp:41: No goesFirstTree detected. Building now...
+[21:56:32][INFO]:Tree.cpp:49: No goesSecondTree detected. Building now...
+[21:56:33][INFO]:Tree.cpp:70: Set currentState to goesFirstTree
+[21:56:33][INFO]:Game.cpp:69: New move
+[21:56:33][INFO]:Game.cpp:214: Board print: 
+	   |   |  
+	-----------
+	   |   |  
+	-----------
+	   |   |  
+
+[21:56:33][INFO]:Tree.cpp:120: Calculate perm...
+[21:56:33][INFO]:Tree.cpp:122: Calc'd perm
+[21:56:33][INFO]:Game.cpp:69: New move
+[21:56:33][INFO]:Game.cpp:214: Board print: 
+	   |   |  
+	-----------
+	   | O |  
+	-----------
+	   |   |  
+
+[21:56:34][INFO]:Human.cpp:44: Human (HumanSteve(X)) moved.
+[21:56:34][INFO]:Game.cpp:69: New move
+[21:56:34][INFO]:Game.cpp:214: Board print: 
+	 X |   |  
+	-----------
+	   | O |  
+	-----------
+	   |   |  
+
+[21:56:34][INFO]:Tree.cpp:108: Attempting to move to next perm...
+[21:56:34][INFO]:Tree.cpp:110: Moved to next permutation
+[21:56:34][INFO]:Tree.cpp:120: Calculate perm...
+[21:56:34][INFO]:Tree.cpp:122: Calc'd perm
+[21:56:34][INFO]:Game.cpp:69: New move
+[21:56:34][INFO]:Game.cpp:214: Board print: 
+	 X | O |  
+	-----------
+	   | O |  
+	-----------
+	   |   |  
+
+[21:56:35][INFO]:Human.cpp:44: Human (HumanSteve(X)) moved.
+[21:56:35][INFO]:Game.cpp:69: New move
+[21:56:35][INFO]:Game.cpp:214: Board print: 
+	 X | O | X
+	-----------
+	   | O |  
+	-----------
+	   |   |  
+
+[21:56:35][INFO]:Tree.cpp:108: Attempting to move to next perm...
+[21:56:35][INFO]:Tree.cpp:110: Moved to next permutation
+[21:56:35][INFO]:Tree.cpp:120: Calculate perm...
+[21:56:35][INFO]:Tree.cpp:155: Go for win
+[21:56:35][INFO]:Tree.cpp:122: Calc'd perm
+[21:56:35][INFO]:Game.cpp:97: Game ended
+[21:56:35][INFO]:Game.cpp:214: Board print: 
+	 X | O | X
+	-----------
+	   | O |  
+	-----------
+	   | O |  
+
+[21:56:35][INFO]:Game.cpp:115: Player 2 wins
+[21:56:35][INFO]:Game.cpp:40: Started new game
+[21:56:35][INFO]:Game.cpp:43: NONE'd out board
+[21:56:35][INFO]:Game.cpp:56: HumanSteve(X) goes first
+[21:56:35][INFO]:Tree.cpp:73: Set currentState to goesFirstTree
+[21:56:35][INFO]:Game.cpp:69: New move
+[21:56:35][INFO]:Game.cpp:214: Board print: 
+	   |   |  
+	-----------
+	   |   |  
+	-----------
+	   |   |  
+
