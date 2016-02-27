@@ -1,3 +1,6 @@
 [submodule "TicTacToe ML/libs/lunchbox"]
 	path = TicTacToe ML/libs/lunchbox
 	url = https://github.com/Samuel-Lewis/lunchbox
+[submodule "BoggleSolver/src/lunchbox"]
+	path = BoggleSolver/src/lunchbox
+	url = https://github.com/Samuel-Lewis/lunchbox.git

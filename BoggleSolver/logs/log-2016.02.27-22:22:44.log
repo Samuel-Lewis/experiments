@@ -1,0 +1,187 @@
+[22:22:44][INFO]:lbLog.cpp:31:  === STARTED LOG ===
+[22:22:44][INFO]:Board.cpp:18: Creating new board
+[22:22:44][LOG]:lbConfig.cpp:34: Initializing lbConfig
+[22:22:44][LOG]:lbConfig.cpp:43: data/config.txt config not loaded.
+[22:22:44][LOG]:lbConfig.cpp:53: Loading config file data/config.txt...
+[22:22:44][LOG]:lbFile.cpp:32: Reading data from file data/config.txt
+[22:22:44][LOG]:lbFile.cpp:52: Successfully read file
+[22:22:44][LOG]:lbConfig.cpp:90: Loaded config file data/config.txt
+[22:22:44][LOG]:lbConfig.h:40: Found config 'min_word_size'. Returned '3'.
+[22:22:44][LOG]:lbFile.cpp:32: Reading data from file data/words.txt
+[22:22:44][LOG]:lbFile.cpp:52: Successfully read file
+[22:22:44][INFO]:Dictionary.h:30: Loaded 58110 words
+[22:22:44][INFO]:Board.cpp:24: Char limit set to 22
+[22:22:44][LOG]:lbConfig.h:40: Found config 'board_size'. Returned '4'.
+[22:22:44][LOG]:Board.cpp:77: Loading dice from file
+[22:22:44][LOG]:lbFile.cpp:32: Reading data from file data/dice.txt
+[22:22:44][LOG]:lbFile.cpp:52: Successfully read file
+[22:22:44][LOG]:Board.cpp:270: Connected dice
+[22:22:44][INFO]:Board.cpp:90: Loaded 16 dice.
+[22:22:44][LOG]:Board.cpp:40: Generating the board
+[22:22:44][LOG]:Board.cpp:46: Shuffle the dice onto the board
+[22:22:44][LOG]:lbRNG.h:38: Generated seed from '3177764359'
+[22:22:44][TRACE]:Board.cpp:63: die: 2. side: 0
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: O
+[22:22:44][TRACE]:Board.cpp:63: die: 6. side: 4
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: N
+[22:22:44][TRACE]:Board.cpp:63: die: 2. side: 2
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: O
+[22:22:44][TRACE]:Board.cpp:63: die: 0. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: S
+[22:22:44][TRACE]:Board.cpp:63: die: 5. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: I
+[22:22:44][TRACE]:Board.cpp:63: die: 2. side: 2
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: R
+[22:22:44][TRACE]:Board.cpp:63: die: 9. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: N
+[22:22:44][TRACE]:Board.cpp:63: die: 3. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: N
+[22:22:44][TRACE]:Board.cpp:63: die: 6. side: 4
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: U
+[22:22:44][TRACE]:Board.cpp:63: die: 6. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: N
+[22:22:44][TRACE]:Board.cpp:63: die: 4. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: I
+[22:22:44][TRACE]:Board.cpp:63: die: 2. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: O
+[22:22:44][TRACE]:Board.cpp:63: die: 0. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: N
+[22:22:44][TRACE]:Board.cpp:63: die: 0. side: 5
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: F
+[22:22:44][TRACE]:Board.cpp:63: die: 0. side: 1
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: Y
+[22:22:44][TRACE]:Board.cpp:63: die: 0. side: 2
+[22:22:44][TRACE]:Board.cpp:64: size: 6
+[22:22:44][TRACE]:Board.cpp:65: val: V
+[22:22:44][LOG]:Board.cpp:96: Getting board as string
+[22:22:46][TRACE]:Board.cpp:231: Adding user input O
+[22:22:46][TRACE]:Board.cpp:231: Adding user input N
+[22:22:46][TRACE]:Board.cpp:231: Adding user input O
+[22:22:46][TRACE]:Board.cpp:231: Adding user input S
+[22:22:46][TRACE]:Board.cpp:231: Adding user input I
+[22:22:46][TRACE]:Board.cpp:231: Adding user input R
+[22:22:46][TRACE]:Board.cpp:231: Adding user input N
+[22:22:46][TRACE]:Board.cpp:231: Adding user input N
+[22:22:46][TRACE]:Board.cpp:231: Adding user input U
+[22:22:46][TRACE]:Board.cpp:231: Adding user input N
+[22:22:46][TRACE]:Board.cpp:231: Adding user input I
+[22:22:46][TRACE]:Board.cpp:231: Adding user input O
+[22:22:47][TRACE]:Board.cpp:231: Adding user input N
+[22:22:47][TRACE]:Board.cpp:231: Adding user input F
+[22:22:47][TRACE]:Board.cpp:231: Adding user input Y
+[22:22:47][TRACE]:Board.cpp:231: Adding user input V
+[22:22:47][LOG]:Board.cpp:270: Connected dice
+[22:22:47][LOG]:Board.cpp:115: Getting solutions
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'SON'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'ION'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'ION'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'NON'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'INNS'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'INS'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'NOR'
+[22:22:47][INFO]:Board.cpp:162: Valid word found! 'NON'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'NUN'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'INNS'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'SON'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'NUN'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'NOR'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'ION'
+[22:22:48][INFO]:Board.cpp:162: Valid word found! 'IONS'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'SONNY'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'ONION'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'ONIONS'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'ION'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'IONS'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'IRON'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'IRON'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'IRON'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'IRONS'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'IRON'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'IRONS'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'INS'
+[22:22:49][INFO]:Board.cpp:162: Valid word found! 'SON'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'INNS'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'NON'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'NON'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'NOR'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'UNION'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'UNIONS'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'UNION'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'UNIONS'
+[22:22:50][INFO]:Board.cpp:162: Valid word found! 'UNIFY'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'UNION'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'RUIN'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'RUIN'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'IRON'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'RUN'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'NON'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'IRON'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'IRON'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'IRONS'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'RUNNY'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'IRON'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'IRONS'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'RUN'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'NON'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'IVY'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'URN'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'NON'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'URN'
+[22:22:51][INFO]:Board.cpp:162: Valid word found! 'URN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'URNS'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'NON'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FUN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FUNNY'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FUN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'YON'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FUR'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'NOR'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'INNS'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FIN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FINN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FINN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FINS'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FINN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FIN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'NINNY'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FINN'
+[22:22:52][INFO]:Board.cpp:162: Valid word found! 'FINN'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'FIR'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'YON'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'FIN'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'FINS'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'INNS'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'FINN'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'INN'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'ONION'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'ONIONS'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'VINO'
+[22:22:53][INFO]:Board.cpp:162: Valid word found! 'VINO'
+[22:22:54][INFO]:Board.cpp:162: Valid word found! 'VINO'
+[22:22:54][INFO]:Board.cpp:162: Valid word found! 'VINO'
+[22:22:54][LOG]:Board.cpp:137: Converting from set to vector
+[22:22:54][INFO]:Board.cpp:141: 33 solutions found!
+[22:22:54][INFO]:lbLog.cpp:86:  === ENDED LOG ===
