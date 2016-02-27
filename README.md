@@ -10,6 +10,14 @@ Wanted to get more practice in on Binary Search Trees, so I made an anagram solv
 
 ***
 
+#### [Boggle Solver](https://github.com/Samuel-Lewis/Experiments/tree/master/BoggleSolver)
+*Toy* - 27th Feb 2016   
+Too much Boggle at home lead to needing to make a solver for it. Experimented with the search, and used threaded to help performance.  
+**To use:** Download the repo, and download [lunchbox](https://github.com/Samuel-Lewis/lunchbox) into `BoggleSolver/src/` to include the toolset.  
+**Dependencies:** [lunchbox](https://github.com/Samuel-Lewis/lunchbox)  
+
+***
+
 #### [CellAuto MapGen](https://github.com/Samuel-Lewis/Experiments/tree/master/CellAuto%20MapGen)
 *Experiment* - 5th Dec 2015  
 Simple pattern generation that is sometimes used for game map generators, particulary forests or caves. It is based off [Celluar Automata](https://en.wikipedia.org/wiki/Cellular_automaton), and in particular I used a variant of [Game of Life's](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) rule set.  
@@ -30,6 +38,13 @@ Simple pattern generation that is sometimes used for game map generators, partic
 First attempt at something machine learning based. A game of Tic Tac Toe, human vs AI, where the more you play, the more the AI learns *how* you play. After every game, the AI rewards its decisions based on what the final results were, which then influence future decisions.  
 **To use:** Download the repo, and the [lunchbox toolset](https://github.com/Samuel-Lewis/lunchbox). Put `lunchbox` in the libs directory of `TicTacToe ML`. Then compile using `make` in root. Run and play!  
 **Dependencies:** [lunchbox](https://github.com/Samuel-Lewis/lunchbox)  
+
+***
+
+#### [quine](https://github.com/Samuel-Lewis/Experiments/blob/master/quine.cpp)
+*Giggle* - 27th Feb 2016  
+A silly version of making a [quine](https://goo.gl/WRBA0B). I don't even know if it qualifies.  
+**To use:** Compile and run it.  
 
 ***
 
