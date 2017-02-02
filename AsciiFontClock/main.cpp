@@ -128,7 +128,7 @@ std::string pretty(std::string t, Font font) {
 int main(int argc, char* argv[]) {
 
     // Default font
-    std::string fontName = "doh";
+    std::string fontName = "money";
 
     // Choose custom font (if specified)
     if (argc > 1) {
