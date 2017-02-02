@@ -10,6 +10,13 @@ Wanted to get more practice in on Binary Search Trees, so I made an anagram solv
 
 ***
 
+#### [Ascii Font Clock](https://github.com/Samuel-Lewis/Experiments/tree/master/AsciiFontClock)
+*Toy* - 2nd Feb 2017
+A fancy clock for your terminal. Compile it and run to see your local time in unnecessarily large text.  
+**To use:** Download the repo. Use `make` in Experiments/AsciiFontClock, and it will display the time. To specify which font you want to use, make sure the font is in the `fonts` directory, and use `./clock <font_name>`.![AsciiArtClock Demo](http://i.imgur.com/29hKv2z.png)
+
+***
+
 #### [Boggle Solver](https://github.com/Samuel-Lewis/Experiments/tree/master/BoggleSolver)
 *Toy* - 27th Feb 2016   
 Too much Boggle at home lead to needing to make a solver for it. Experimented with the search, and used threaded to help performance.  
