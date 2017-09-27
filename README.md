@@ -5,7 +5,7 @@ Toys, Experiments, Giggles
 
 #### [10print](https://github.com/Samuel-Lewis/Experiments/tree/master/10print)
 *Experiment* - 27th Sept 2017  
-Looking at early creative coding, and wanted to try a quick version of the 10print pattern. For more info on the pattern, see http://10print.org/.
+Looking at early creative coding, and wanted to try a quick version of the 10print pattern. For more info on the pattern, see http://10print.org/. ![10PrintPattern](https://i.imgur.com/cB71w8m.png)  
 **To use:** Download the repo. Run `./10print` and you're done. Just watch it I guess.
 
 ***
