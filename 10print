@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# What is 10print? See https://10print.org/
+# GitHub https://github.com/Samuel-Lewis/10print
+
+chars=(╱ ╲)
+clear
+while true; do
+	printf "${chars[RANDOM%2]}"
+	sleep 0.0001;
+done
+

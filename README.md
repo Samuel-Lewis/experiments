@@ -3,6 +3,13 @@ Toys, Experiments, Giggles
 
 ***
 
+#### [10print](https://github.com/Samuel-Lewis/Experiments/tree/master/10print)
+*Experiment* - 27th Sept 2017  
+Looking at early creative coding, and wanted to try a quick version of the 10print pattern. For more info on the pattern, see http://10print.org/.
+**To use:** Download the repo. Run `./10print` and you're done. Just watch it I guess.
+
+***
+
 #### [Anagram Solver](https://github.com/Samuel-Lewis/Experiments/tree/master/AnagramSolver)
 *Toy* - 4th Dec 2015  
 Wanted to get more practice in on Binary Search Trees, so I made an anagram solver. It stores all real words in BST, and it just checks if the permutations of your query exist.  
@@ -54,5 +61,3 @@ A silly version of making a [quine](https://goo.gl/WRBA0B). I don't even know if
 **To use:** Compile and run it.  
 
 ***
-
-Samuel Lewis 2015
