@@ -36,6 +36,8 @@ Too much Boggle at home lead to needing to make a solver for it. Experimented wi
 *Experiment* - 5th Dec 2015  
 Simple pattern generation that is sometimes used for game map generators, particulary forests or caves. It is based off [Celluar Automata](https://en.wikipedia.org/wiki/Cellular_automaton), and in particular I used a variant of [Game of Life's](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) rule set.  
 **To use:** Download the repo, and compile with `make`. You're set! Just run the program to see its results.
+![CellAuto Demo](http://i.imgur.com/fmz4NfS.png)
+
 
 ***
 
